@@ -4,8 +4,9 @@ The project “Restaurant Management System” is implemented to reduce the manu
 <img src="/main/restaurantmanagement.jpg" width='1000'>
 </p>
 
-# Technical Stack
+# Technologies Used
 - Python 3.6
 - Python Tkinter GUI
+
 
 
